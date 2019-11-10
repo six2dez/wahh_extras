@@ -1,5 +1,4 @@
-# Web applications pentesting
-
+# Web applications hacker's handbook
 ## Book Index
 
 1. Web Application (In)security
