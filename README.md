@@ -1,6 +1,10 @@
 # wahh_extras
 The Web Application Hacker's Handbook - Extra Content
 
+You can support this work buying me a coffee:
+
+[<img src="https://www.buymeacoffee.com/assets/img/guidelines/bmc-coffee.gif">](https://www.buymeacoffee.com/s8FvAic)
+
 ## TOC
 
 - Web applications pentesting
