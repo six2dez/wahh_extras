@@ -49,3 +49,7 @@ You can support this work buying me a coffee:
       - Test application logic
       - Assess application hosting
       - Miscellaneous tests
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/six2dez/wahh_extras.svg)](https://starchart.cc/six2dez/wahh_extras)  
