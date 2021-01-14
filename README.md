@@ -6,7 +6,7 @@ For all of you who have read "The web application hacker's handbook vol2", there
 
 You can support this work buying me a coffee:
 
-[<img src="https://www.buymeacoffee.com/assets/img/guidelines/bmc-coffee.gif">](https://www.buymeacoffee.com/six2dez)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png">](https://www.buymeacoffee.com/six2dez)
 
 ## TOC
 
