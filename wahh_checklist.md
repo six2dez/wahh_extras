@@ -1,4 +1,4 @@
-## Web Applicattion attack checklist
+## Web Application attack checklist
 
 ### Recon and analysis
 

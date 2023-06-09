@@ -275,7 +275,7 @@
    - Any other address in the 	127.0.0.0 Class A subnet
    - Any variations on these in binary  	or 	octal representations such as 017700000001.
 
-7. Mail injection attacks against this application function would not  	require the mail server to support mail relaying. Hardcoding the RCPT TO  	field would not prevent mail injection if other mail headers contain  	user-controller input, since an attacker could inject a second recipient  	using a second RCPT TO line. The most  	effective defense in this situation is to stricly validate all  	user-supplied inputs to ensure they do not contain any newlines or other  	SMTP metacharacters.
+7. Mail injection attacks against this application function would not  	require the mail server to support mail relaying. Hardcoding the RCPT TO  	field would not prevent mail injection if other mail headers contain  	user-controller input, since an attacker could inject a second recipient  	using a second RCPT TO line. The most  	effective defense in this situation is to strictly validate all  	user-supplied inputs to ensure they do not contain any newlines or other  	SMTP metacharacters.
 
 
 
@@ -323,7 +323,7 @@
    - inducing user actions; 
    - injecting Trojan functionality; 
    - stealing cached autocomplete data; and
-   - loglogging keystrokes.
+   - logging keystrokes.
 
 8. You can “convert” the reflected XSS flaw into a DOM-based one. For example,  	if the vulnerable parameter is called vuln,  	you can use the following URL to execute an arbitrarily long script:
 
@@ -365,7 +365,7 @@
 
    (b) The attacker creates his own site that causes visitors to log in  	to the vulnerable application using the attacker's credentials (via a  	CSRF attack against the login function), and then request the page  	containing the malicious display name.
 
-   (c) When a victim is induced to visit the attacker's website, she is  	logged in to the vulnerable application, and the attacker's JavaScript  	executes. This script persists itself within the victim's browser, logs  	out of the application, and presents some content that induces the  	victim to log in using her own credentials. If she does this, then the  	attacker's script can compromise both the victim's credentials and her  	resulting session. From the victim's persepective the attack is seamless  	and appears to involve simply following a link, and then being presented  	with the vulnerable application's own login function.
+   (c) When a victim is induced to visit the attacker's website, she is  	logged in to the vulnerable application, and the attacker's JavaScript  	executes. This script persists itself within the victim's browser, logs  	out of the application, and presents some content that induces the  	victim to log in using her own credentials. If she does this, then the  	attacker's script can compromise both the victim's credentials and her  	resulting session. From the victim's perspective the attack is seamless  	and appears to involve simply following a link, and then being presented  	with the vulnerable application's own login function.
 
 7. You can add the header 
 
